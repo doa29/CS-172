@@ -1,4 +1,5 @@
-#Name: Nana Kwasi Owusu
+#Name: Daniel Amayaenvbo, Nana Kwasi Owusu
+#Drexel id: doa29, no329
 #Date: 3rd February, 2024.
 #Program Description: A program that simulates the population of foxes and rabbits after a number of years
 
