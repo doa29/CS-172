@@ -1,5 +1,5 @@
-#Name: Nana Kwasi Owusu
-#Drexel id: no329
+#Name: Daniel Amayaenvbo, Nana Kwasi Owusu
+#Drexel id: doa29, no329
 #Purpose of file: This file contains the ball class, a subclass of Drawable, used to represent the ball in the game
 import math
 import random
