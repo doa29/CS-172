@@ -1,5 +1,5 @@
-#Name: Nana Kwasi Owusu
-#Drexel id: no329
+#Name: Daniel Amayaenvbo, Nana Kwasi Owusu
+#Drexel id: doa29, no329
 #Purpose of file: This is the main game file for a simple ball-and-paddle game implemented using Pygame.
 import pygame
 import random
