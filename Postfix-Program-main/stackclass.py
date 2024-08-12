@@ -1,3 +1,5 @@
+#Name: Daniel Amayaenvbo, Nana Kwasi Owusu
+#Drexel id: doa29, no329
 # CS 172 Lab 6
 # Stack Class
 # This file must be submitted along with your main.py
