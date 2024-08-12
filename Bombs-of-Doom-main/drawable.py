@@ -1,5 +1,5 @@
-#Name: Nana Kwasi Owusu
-#Drexel id: no329
+#Name: Daniel Amayaenvbo, Nana Kwasi Owusu
+#Drexel id: doa29, no329
 #Purpose of file: This file defines the abstract Drawable class, which serves as the base class for all drawable objects in the game.
 from abc import ABC, abstractmethod
 
