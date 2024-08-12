@@ -1,4 +1,5 @@
-#Name: Nana Kwasi Owusu
+#Name: Daniel Amayaenvbo, Nana Kwasi Owusu
+#Drexel id: doa29, no329
 #Date: 17 February, 2024
 #Program Description: This is a program that calculates a person's name number and then predicts things about that person based on their name number
 
