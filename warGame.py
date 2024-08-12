@@ -1,4 +1,5 @@
-# Name: Nana Kwasi Owusu
+#Name: Daniel Amayaenvbo, Nana Kwasi Owusu
+#Drexel id: doa29, no329
 # Date: 2 March, 2024
 # Program Description: This is a game that is similar to the popular War Card Game. The players use the cards in their decks to battle until one person runs out of cards.
 
