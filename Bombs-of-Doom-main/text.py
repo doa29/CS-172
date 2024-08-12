@@ -1,4 +1,4 @@
-#Name: Nana Kwasi Owusu
+#Name: Daniel Amayaenvbo, Nana Kwasi Owusu
 #Drexel id: no329
 #Purpose of file: This file defines the Text class, a subclass of Drawable, used to display text in the game.
 from drawable import Drawable
